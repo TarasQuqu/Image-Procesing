@@ -1,0 +1,17 @@
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.csprojAssemblyReference.cache
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.Map.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.Properties.Resources.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.submiss.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.csproj.GenerateResource.cache
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.csproj.CoreCompileInputs.cache
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\bin\Debug\APO_TarasKuts16555.exe.config
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\bin\Debug\APO_TarasKuts16555.exe
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\bin\Debug\APO_TarasKuts16555.pdb
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.exe
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.pdb
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.CUT.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.Picture.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.CreateDarkImage.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.MainForm.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.CreateLightImage.resources
+E:\Users\Саша\source\repos\APO_TarasKuts16555\APO_TarasKuts16555\obj\Debug\APO_TarasKuts16555.NewMap.resources
